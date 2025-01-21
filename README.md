@@ -21,18 +21,18 @@ This project simulates a real-world scenario of recovering data from corrupted o
 3. Once a JPEG header is found, the program writes the file to disk and continues scanning for the next JPEG.
 4. The process continues until the entire forensic image is processed.
 
-##Learnings
+## Learnings
 This project helped in understanding:
 
 - How to work with binary files in C.
 - Data recovery techniques by analyzing file signatures.
 - Memory management and file handling.
 
-##Contributions
+## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 This project is part of the CS50 course by Harvard University. Thanks to the course staff and community for their guidance and support.
